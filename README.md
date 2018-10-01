@@ -1,5 +1,5 @@
 # demo-git
 Du test
 
-du test local
+du test localisé
 
