@@ -1,5 +1,4 @@
 # demo-git
 Du test
 
-du test localisé
-Encore une modif
+Une grosse modif qui resume tout
